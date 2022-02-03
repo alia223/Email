@@ -1,0 +1,6 @@
+C:\Users\asfan\EmailApp\EmailApp\bin\Release\EmailApp.exe.config
+C:\Users\asfan\EmailApp\EmailApp\bin\Release\EmailApp.exe
+C:\Users\asfan\EmailApp\EmailApp\bin\Release\EmailApp.pdb
+C:\Users\asfan\EmailApp\EmailApp\obj\Release\EmailApp.csproj.CoreCompileInputs.cache
+C:\Users\asfan\EmailApp\EmailApp\obj\Release\EmailApp.exe
+C:\Users\asfan\EmailApp\EmailApp\obj\Release\EmailApp.pdb
